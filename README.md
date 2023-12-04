@@ -6,12 +6,11 @@ This notebook demonstrates the process of building a flower classification model
 Before running the notebook, ensure you have the following dependencies installed:
 - TensorFlow
 - TensorFlow Datasets (tfds)
-- Matplotlib (for visualization)
 
 You can install these dependencies using the following:
 
 ```bash
-pip install tensorflow tensorflow-datasets matplotlib
+pip install tensorflow tensorflow-datasets
 ```
 
 ## Notebook Overview
